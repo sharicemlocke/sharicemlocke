@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hey Y'all 👋
 
 <!--
 **sharicemlocke/sharicemlocke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -11,5 +11,3 @@
 - 💬 Ask me about 
 - 😄 Pronouns: My pronouns are she/they primarily but I do not mind being called he every now and then.
 - ⚡ Fun fact: I was born on Guam Military Base.
--->
-
